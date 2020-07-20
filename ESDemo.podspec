@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ESDemo'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of ESDemo.'
+  s.version          = '0.0.2'
+  s.summary          = 'ESDemo for cocoapods static library'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,19 +18,21 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  to test the cocoapods static library works
                        DESC
 
-  s.homepage         = 'https://github.com/codeLockers@outlook.com/ESDemo'
+  s.homepage         = 'https://github.com/EverydayStep/ESDemo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'codeLockers@outlook.com' => 'coker@wiredcraft.com' }
-  s.source           = { :git => 'https://github.com/codeLockers@outlook.com/ESDemo.git', :tag => s.version.to_s }
+  s.author           = { 'codeLocker' => 'codeLockers@outlook.com' }
+  s.source           = { :git => 'https://github.com/EverydayStep/ESDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
+  s.swift_version = '5.0'
 
   s.source_files = 'ESDemo/Classes/**/*'
+  s.ios.vendored_frameworks = 'ESDemo.framework'
   
   # s.resource_bundles = {
   #   'ESDemo' => ['ESDemo/Assets/*.png']

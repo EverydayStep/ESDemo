@@ -37,28 +37,28 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		08579AB2188A44C550360A1ED823800B /* ESDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ESDemo.framework; path = ESDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		08579AB2188A44C550360A1ED823800B /* ESDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ESDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E531BD14C4BC7A6F13CD65E5B599674 /* ESDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ESDemo.release.xcconfig; sourceTree = "<group>"; };
 		1304176127459DE1052B86C4773E7658 /* Pods-ESDemo_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ESDemo_Tests.modulemap"; sourceTree = "<group>"; };
 		18DFEECDB8871A07360B6BBE39B3FE06 /* Pods-ESDemo_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ESDemo_Example-frameworks.sh"; sourceTree = "<group>"; };
-		19830DDE6A644E26104D3619E322849F /* ESDemo.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = ESDemo.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		19830DDE6A644E26104D3619E322849F /* ESDemo.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ESDemo.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		23326121557DE15205F8EC0BBAF7600E /* ESDemo-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ESDemo-Info.plist"; sourceTree = "<group>"; };
 		26750C6FB31FDC211CD8A15A18A3E42B /* Pods-ESDemo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ESDemo_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		49A8621D9862E9194F451D1CF62C862F /* Pods_ESDemo_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ESDemo_Example.framework; path = "Pods-ESDemo_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		49A8621D9862E9194F451D1CF62C862F /* Pods_ESDemo_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ESDemo_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D4D116926FCA8082BDC9CE04E45ECB2 /* Pods-ESDemo_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ESDemo_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		4F834B345577FE9F5934DF546EAB0BB5 /* ESDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = ESDemo.modulemap; sourceTree = "<group>"; };
 		54C054CF3EE05C23C34D9CB351A1620F /* ESDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ESDemo.debug.xcconfig; sourceTree = "<group>"; };
 		553FE18E305384A2785BB63EFFA96D16 /* Pods-ESDemo_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ESDemo_Example-umbrella.h"; sourceTree = "<group>"; };
 		5E32E256928A8F3219883AF334C1C043 /* Pods-ESDemo_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ESDemo_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		5E56E687038036CFCEBAEB2DCB1FF20B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		5E56E687038036CFCEBAEB2DCB1FF20B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6899235BD0BC947FEDC2EDF53860E9D1 /* ESDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ESDemo-umbrella.h"; sourceTree = "<group>"; };
 		7670C547CE45DF371454086E495A3BBE /* ESDemo-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ESDemo-prefix.pch"; sourceTree = "<group>"; };
-		77CEFE0745FBA072AF71541549472BF3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		77CEFE0745FBA072AF71541549472BF3 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		96B698416ED9733E75B4574199BC7CA6 /* ESDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ESDemo-dummy.m"; sourceTree = "<group>"; };
 		9A33E65E82BD6105E74C3D8623CCE077 /* Pods-ESDemo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ESDemo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		9B7CE970B153AAF3A32213170A87F860 /* Pods-ESDemo_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ESDemo_Example.release.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AC45036C3DB8FB5E25FD9ABD26ED7B63 /* Pods-ESDemo_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ESDemo_Example-Info.plist"; sourceTree = "<group>"; };
 		AD3EF33446AC8E0A593DA650A237C4D6 /* Pods-ESDemo_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ESDemo_Example.modulemap"; sourceTree = "<group>"; };
 		AE98D4D7647EA1AF33FD6617DEEE94BD /* Test.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Test.swift; path = ESDemo/Classes/Test.swift; sourceTree = "<group>"; };
@@ -67,7 +67,7 @@
 		B24203598F8941FCEF824B4163B242A7 /* Pods-ESDemo_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ESDemo_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B2592C388DAB4FCF9F3F6406CFBBC0DA /* Pods-ESDemo_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ESDemo_Tests-Info.plist"; sourceTree = "<group>"; };
 		C69912E5699637B43AD56110F1466E72 /* Pods-ESDemo_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ESDemo_Tests-umbrella.h"; sourceTree = "<group>"; };
-		D4D8ED265976DD7AE2416F0B5743A056 /* Pods_ESDemo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ESDemo_Tests.framework; path = "Pods-ESDemo_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D4D8ED265976DD7AE2416F0B5743A056 /* Pods_ESDemo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ESDemo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E6CD18D8C7640D73B337F5A4F595AD44 /* Pods-ESDemo_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ESDemo_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		FE67166B110252C4DF6198EF6C603C41 /* Pods-ESDemo_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ESDemo_Tests-dummy.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -424,7 +424,9 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/ESDemo/ESDemo.modulemap";
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_MODULE_NAME = ESDemo;
 				PRODUCT_NAME = ESDemo;
 				SDKROOT = iphoneos;
@@ -557,8 +559,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -646,6 +647,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/ESDemo/ESDemo.modulemap";
 				PRODUCT_MODULE_NAME = ESDemo;
 				PRODUCT_NAME = ESDemo;
