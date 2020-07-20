@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ESDemo_Example' do
+  pod 'ESDemo', :path => '../'
+
+  target 'ESDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
