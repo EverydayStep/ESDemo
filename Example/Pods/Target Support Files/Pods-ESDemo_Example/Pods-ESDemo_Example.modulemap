@@ -1,0 +1,6 @@
+framework module Pods_ESDemo_Example {
+  umbrella header "Pods-ESDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

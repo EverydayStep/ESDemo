@@ -1,0 +1,22 @@
+{
+  "name": "ESDemo",
+  "version": "0.1.0",
+  "summary": "A short description of ESDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/codeLockers@outlook.com/ESDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "codeLockers@outlook.com": "coker@wiredcraft.com"
+  },
+  "source": {
+    "git": "https://github.com/codeLockers@outlook.com/ESDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ESDemo/Classes/**/*"
+}
